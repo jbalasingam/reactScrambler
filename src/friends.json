@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/ComicBookGuy2.gif",
+    "image": "https://www.verywellfamily.com/thmb/6A5v3ZYdsd6_LwcB4tvlOuW_UZc=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LightningMcQueen-56a775435f9b58b7d0eaab52.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/BarneyBikini.gif",
+    "image": "https://www.verywellfamily.com/thmb/xjHHKuRp3RK86JBukUkOyaQ2zSg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mater-56a775443df78cf772961ed8.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Apu1.gif",
+    "image": "https://www.verywellfamily.com/thmb/21COuERw_dzt28YBQrYacE3KDNU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sally-56a775453df78cf772961edf.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MrBurns4.gif",
+    "image": "https://www.verywellfamily.com/thmb/WVA0MqsEA1DLN4o2S2f04bqS2kI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Luigi-56a775453df78cf772961ee7.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Cletus1.gif",
+    "image": "https://www.verywellfamily.com/thmb/OhvthxeNIPVlR9QsrohfG9i6QJ4=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Guido-56a775465f9b58b7d0eaab6c.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Duffman.gif",
+    "image": "https://www.verywellfamily.com/thmb/vpAbdofN6IGt3jTwtbTUZFSfaac=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mack-56a775485f9b58b7d0eaab77.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/NedFlanders2.gif",
+    "image": "https://www.verywellfamily.com/thmb/xdNOrMy91zLpgLBpWbp60MxIYSI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ramone-56a775495f9b58b7d0eaab80.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Krusty8.gif",
+    "image": "https://www.verywellfamily.com/thmb/-na1HbpfV5iCbRgYM6ejpNqDpXg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/flo-56a7754b3df78cf772961f06.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Milhouse2.gif",
+    "image": "https://www.verywellfamily.com/thmb/Le17s_GiAuA8bW9jRDVvaVSxVas=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sheriff-56a7754b3df78cf772961f0b.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/GroundskeeperWilly1.gif",
+    "image": "https://www.verywellfamily.com/thmb/1xcKY_969rbdK_UPOJj1rKabUq0=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lizzie-56a7754c3df78cf772961f10.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/RalphWiggum4.gif",
+    "image": "https://www.verywellfamily.com/thmb/gdnj7fRiduKaUhSSOpf4nLgDDjI=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/finn-56a7754a5f9b58b7d0eaab84.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MoeSzyslak1.gif",
+    "image": "https://www.verywellfamily.com/thmb/5iMMQYaBHiyrAg85SrH0w2oLU74=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/holley-56a7754a3df78cf772961f02.jpg",
     "clicked": false
   }
 ]
