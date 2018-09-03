@@ -9,13 +9,9 @@ nav {
 }
 
 a {
-  color: #fed420;
+  color: #fdfdfd;
 }
 
-a:hover {
-  color: #fed420;
-  text-decoration: none;
-}
 
 nav li {
   display: inline-block;

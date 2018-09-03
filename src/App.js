@@ -1,15 +1,15 @@
 import React, { Component } from "react";
-import FriendCard from "./components/FriendCard";
+import Card from "./components/Card";
 import Nav from "./components/Nav";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Container from "./Container";
 import Row from "./Row";
 import Column from "./Column";
-import friends from "./friends.json";
+import Cars from "./Cars.json";
 import "./App.css";
 
-function shuffleFriends(array) {
+function shuffleCars(array) {
   for (let i = array.length - 1; i > 0; i--) {
     let j = Math.floor(Math.random() * (i + 1));
     [array[i], array[j]] = [array[j], array[i]];
@@ -20,7 +20,7 @@ function shuffleFriends(array) {
 class App extends Component {
   // Set this.state
   state = {
-    friends,
+    Cars,
     currentScore: 0,
     topScore: 0,
     rightWrong: "",
@@ -55,44 +55,43 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "Strike Out!",
       clicked: []
     });
     this.handleShuffle();
   };
 
   handleShuffle = () => {
-    let shuffledFriends = shuffleFriends(friends);
-    this.setState({ friends: shuffledFriends });
+    let shuffledCars = shuffleCars(Cars);
+    this.setState({ Cars: shuffledCars });
   };
 
   render() {
     return (
       <Wrapper>
         <Nav
-          title="Simpsons Clicky Game"
+          title="Cars Clicks"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
         <Title>
-          Try to click on each character, but don't hit any duplicates, or
-          we'll release the hounds!!!
+          Click on each Car only once to win.!!! Max score is 12.
         </Title>
 
         <Container>
           <Row>
-            {this.state.friends.map(friend => (
+            {this.state.Cars.map(cad => (
               <Column size="md-3 sm-6">
-                <FriendCard
-                  key={friend.id}
+                <Card
+                  key={cad.id}
                   handleClick={this.handleClick}
                   handleIncrement={this.handleIncrement}
                   handleReset={this.handleReset}
                   handleShuffle={this.handleShuffle}
-                  id={friend.id}
-                  image={friend.image}
+                  id={cad.id}
+                  image={cad.image}
                 />
               </Column>
             ))}
