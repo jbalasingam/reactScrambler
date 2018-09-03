@@ -27,5 +27,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wllm-chndlr/clicky-game/issues"
-  }
+  },
+  "devDependencies": {}
 }
